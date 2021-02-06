@@ -1,0 +1,13 @@
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\bin\Debug\netcoreapp3.1\GameProject_Oop.exe
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\bin\Debug\netcoreapp3.1\GameProject_Oop.deps.json
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\bin\Debug\netcoreapp3.1\GameProject_Oop.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\bin\Debug\netcoreapp3.1\GameProject_Oop.runtimeconfig.dev.json
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\bin\Debug\netcoreapp3.1\GameProject_Oop.dll
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\bin\Debug\netcoreapp3.1\GameProject_Oop.pdb
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\obj\Debug\netcoreapp3.1\GameProject_Oop.csprojAssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\obj\Debug\netcoreapp3.1\GameProject_Oop.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\obj\Debug\netcoreapp3.1\GameProject_Oop.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\obj\Debug\netcoreapp3.1\GameProject_Oop.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\obj\Debug\netcoreapp3.1\GameProject_Oop.dll
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\obj\Debug\netcoreapp3.1\GameProject_Oop.pdb
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\GameProject_Oop\GameProject_Oop\obj\Debug\netcoreapp3.1\GameProject_Oop.genruntimeconfig.cache
